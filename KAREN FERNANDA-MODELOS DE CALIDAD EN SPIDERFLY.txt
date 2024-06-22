@@ -1,0 +1,35 @@
+#Se planteo una pregunta sobre que estándar o modelo de calidad se adapta mejor a nuestro proyecto, cada integrante del equipo compartió su opinión ante esta pregunta.
+
+-KAREN: El modelo ISO aunque originalmente fue diseñado para software en general, sus criterios son aplicables para nuestro juego de navegador web. Ya que se centra en características como la funcionalidad, fiabilidad, usabilidad, eficiencia, mantenibilidad y portabilidad. Para un juego de navegador como el nuestro, la funcionalidad (que el juego sea divertido y entretenido), la usabilidad (navegación intuitiva, controles claros), y la eficiencia (tiempos de carga rápidos, bajo consumo de recursos) son especialmente importantes.
+
+-ANGEL: Al mejorar la calidad del software, SPICE puede ayudar a nuestro juego de navegador web a reducir los costos asociados a la corrección de errores y al desarrollo de software nuevo, ayuda a las empresas a identificar y eliminar las causas de los defectos de software, lo que a su vez conduce a una mayor calidad del producto final.
+
+-YOSELIN: Al adoptar el Estándar ISO para el proyecto Spider-fly, podemos garantizar que nuestros procesos de desarrollo y calidad del juego cumplan con estándares globalmente aceptados. Por lo que no solo aumentará la confianza de los jugadores y usuarios finales, sino que también nos posicionará favorablemente en el mercado internacional de juegos, lo que facilitará la entrada a nuevos mercados y socios comerciales. Además, nos permitirá elevar constantemente nuestros estándares de calidad y satisfacción del jugador, asegurando que Spider-fly se mantenga en términos de entretenimiento y en una mejor experiencia del usuario.
+
+-MONSERRAT: Uno de los modelos de calidad que sugiero para el desarrollo de nuestro Juego es el modelo o normas SPICE ya que esta se centra más en la evaluación y mejora en el desarrollo de nuestro software y de esta manera poder localizar las áreas de mejora y poder trabajar en base a ellas de manera mas rápida.
+
+-GABRIEL: CMMI es un modelo de mejora de procesos que proporciona a las organizaciones los elementos esenciales de procesos efectivos, y en nuestro proyecto ayudara a mejorar sus procesos de desarrollo y mantenimiento de software, incrementando la calidad y reduciendo riesgos.
+
+-ELIZABETH: Elegiría el modelo ISO/IEC 25000 para el juego Spider-Fly. Este modelo es adecuado para mantener la calidad del software en términos críticos para el juego, como funcionalidad, fiabilidad, usabilidad, eficiencia, mantenimiento y portabilidad. El modelo SQuaRE proporcionaría un marco más detallado para la evaluación de la calidad del software que puede ser esencial para asegurarse de que el juego cumpla con las expectativas del consumidor en términos de calidad de la experiencia del juego y funcionalidad técnica. Aunque la calidad del software no es lo suficientemente alta para el juego, la decisión de elegir este modelo se basa en el carácter global del juego Spider-Fly.
+
+-ARAMY: En mi opinión personal y con base en lo que hemos investigado creo que el que le correspondería al de MOPROSOFT pues es un poco mas accesible y además de eso simplifica la relación entre modelos de proceso y la organización. No solo sirve como un marco de referencia y que como se menciono anteriormente esta orientado a principalmente pequeñas empresas.
+
+-GERA: El modelo CMMI como ventajas podemos destacar la reducción de costes, la mejora de la calidad, fiabilidad e imagen del navegador web, el aumento de su productividad, el aumento de los proyectos y beneficios, etc.
+
+#Se planteo en que entorno se adaptaría mejor nuestro proyecto.
+
+-Un juego de navegador web como el nuestro se desarrollará mejor en un entorno social. Si bien los juegos de navegador web también podrían desarrollarse en entornos empresariales o de procesos, estos entornos generalmente se centran en aplicaciones y herramientas que son más utilitarias y orientadas a la productividad. Un juego de navegador, por otro lado, se ajusta mejor a un entorno social donde la diversión, la interacción y la comunidad son aspectos fundamentales.
+
+#Se plantearon algunos beneficios en el desarrollo de nuestro proyecto.
+
+-Accesibilidad.
+-Interacción Social.
+-Facilidad de Compartir.
+-Actualizaciones Fáciles.
+
+#Se plantearon algunas contras en el desarrollo de nuestro proyecto.
+
+-Dependencia de Conexión a Internet
+-Limitaciones de Rendimiento
+-Competencia en el Mercado
+-Privacidad y Seguridad
