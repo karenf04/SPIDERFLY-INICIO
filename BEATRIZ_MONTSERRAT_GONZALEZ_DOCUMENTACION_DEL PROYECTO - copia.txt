@@ -1,0 +1,77 @@
+_____________________Documentacion  del proyecyo___________________________________
+Se realizo la ducumentacion de nuestro proyecto Spider-Flay para poder llevar acabo un orden y 
+registro sobre lo que se esta realizando para la creacion del proyeto con el fin de tener un buen  desempeño 
+en la realizacion del proyecto, la colaboracion de todos los miembros del equipo para asi poder 
+lograr tener un buen resulatado de nuestro proyecto.
+Los aspectos a resaltar de nuestra documentacion de Spider-Flay son los siguentes:
+Introducion
+Justificacion 
+Objetivo
+Desarrollo
+Boseto
+Metedo de desarrollo
+------------------------INTRODUCCION-----------------------------------------------------
+la introduccion  colocamos  fue con el objetivo de que puedas conocer un poco sobre este proyecto y en esta te brindamos 
+una pequeña explicacion de lo que realizamos para que pudiereran  saber  de lo que es Spider-Flay y lo que les 
+ofrece a los usuarios que lo utilisen , tambien en esta incluimos un poco dode la historia que se tienen el juego.
+La documentacion creada creada durante el desarrollo de un proyecto puede servir como guia para futuros desarrolladores, aportar ub aporte social y facilitar
+la comprencion de los procesos de desarrollo de videojuegos.
+
+
+--------------------------JUSTIFICACION--------------------------------------------------
+La creación de nuestri videojuego "Spider-Fly" surge de poder ofrecer una experiencia de juego que sea divertida, adictiva y accesible que para el publico en general.
+de esta manera, nuestros desarroladores puedenemplorar su capacidad para innovar sin tener que crear algo completamente nuevo.
+Nosotros vamos a manejar un juego simple pero divertido para que las personas desfruten de la experiencia de juego.
+Repecto a la relrvancia del proyecto, se señala que ademas de la innovacion en plataformas, tambien es importante informar y conpartir conocimientos.
+
+En cuestion, se espera que el proyecto sea bien recibido por el publico, enfatizando que la simplicidad del juego no le quita la capacidad de ser interesante y emocionante.
+Esta perspectiva resalta la idea de que la calidad de un juego no siempre depemde la su complejidad tecnica, sino de la esxperencia que ofrece a los jugadores.
+
+----------------------------OBJETIVO------------------------------------------------
+como nuestro viojuevo va dirigido principalmente para adolecentes y adultos nuestros objetivos que fueron planteados para este proyecto fueron los sigunetes:
+1: Entretenimiento
+2:Disponibilidad
+3:Desafio
+Estos objetivos fueron planteados  devido a que no solo buscamos entretener si no que tambien al usar nuestro videojuego los usuarios  desarrollan y entrenar la concentración ,los reflejos
+incluso tambien fomentar la perseverancia y la superación de retos devido a que "Spider-Fly" ofrece una dificultad progresiva que aumenta conforme los jugadores avanzan en el juego.
+Este diseño no solo mantiene a los jugadores motivados, sino que también les proporciona un sentido de logro y mejora continua fomentando las habilidades como la perseverancia 
+y la resolución de problemas de nuestro usuario.
+
+La creación de "Spider-Fly" Ttiene  múltiples beneficiosos:
+
+- *Entretenimiento*: Aporta una opción de ocio que puede ser disfrutada en cualquier momento y lugar, siempre que haya acceso a un navegador web.
+- *Accesibilidad*: La eliminación de descargas adicionales facilita llegar a un público más amplio, incluidos aquellos que no tienen dispositivos de última generación.
+- *Desafío*: Fomenta el desarrollo de habilidades cognitivas a través de niveles de dificultad que aumentan gradualmente.
+
+Este enfoque integral no solo satisface las necesidades de entretenimiento de los usuarios, sino que también enriquece su experiencia al brindarles un juego accesible, 
+divertido y que ofrece el nivel justo de desafío. Por lo tanto, Spider-Fly tiene el potencial de convertirse en un recurso valioso en el ecosistema de videojuegos de navegador y brindar una experiencia de juego rica y gratificante.
+
+---------------------------DESARROLLO------------------------------------------------
+Nuentro juego va enfocado principalmente para ser usado en navegadores web  Google Chrome, con un sistema operativo Windows en adelante. este juevo fue ispirado en el clasico juego Flappy Bird.
+En nuestro juego los usuarios tienen el control de  sobre el personaje el cual es Spiderman el cual tiene como objetivo atravezar la ciudad columpiandose por los edificios y rascacielos 
+sin chocar con ellos tambien en el juego como obstaculos que puedes encontrar son algunos villanos los cuales tendra que esquivar para poder segir avanzando. Con cada edificio que nuestro personaje va pasando va ir recolectando 
+SPIDER-COINS  los cuales van hacer dinero con los cuales puedes adquirir nuevos accesorios para nuestro Spiderman.
+
+Utilizando HTML,CSS y JavaScrip le daremos vida a este videojuego.HTML Y CSS los usaremos para mostrar a Spiderman,Los edicios,el cronometro,la tienenda donde se van a adpquirir los diferentes
+accesorios para el perdsonaje y tambien los distintos botones  a utilizar y por ultimo y mas importate con JavaScrip implemetaresmos la logica del juego icluyendo los controles del videojuego 
+para que el moviminto de nuestro Spiderman asi como la detección de colisiones con los edificios y el seguimiento de la puntuación y el tiempo.
+
+Algunas de la funcinalidade que tene nuestro viodeojuego es que en la pantalla de incio podras visualizar la tienda para adquiar accesorios para el personaje, los SPIDER-COINS que has adquirido, tambie  el icono de ajustes
+cpn los cuales podras realizar unos pequenos ajustes para la comodidad del usuario;Controles movimiento con los cuales se va a poder controlar el moviento del personaje.;Deteccion de colicios los cules tratan que cuendo nuestro
+Spiderman choque el juego terminara;Puntuación Se mostrara los puentos que llevas y esta se va a ir actializando cada vez que el Spierman pase con exito los edificios
+
+---------------------------BOSETO-------------------------------------------------------------------------
+En nuestro boceto se puede ver la interfaz que se tiene planeada para nuestro videojuego, en lla se puede visualizar los diferentes iconos que tentra el juego como el cronometro,la tienda para los accesorios, los spider-coins
+laicono de ajustes entre otros, esta intersas se adecua decurdo a las necesidades de nuestros usuarios para que asi sea tanto agradable para vista como comodo para nuestro usuario y asi este pueda tener 
+una buena  experienza miestra este jugando.
+----------------------------------------METODO DE DESSARROLLO-----------------------------------------------------------------------
+El metodo de sarrollo que se eligio para llevarsde acabo el proyecto fue el metodo de Gantt pues con el tenemos un mejor control de  de cada procedimiento que se vaya realizando del proyecto y asi al mismo tiempo organizarnos 
+para decidarle el tiempo correspondiente al proyecto y asi nos trazarnos con las fechas y poderlo tener en tiempo y forma nuestro proyecto, la estructura que se planeo fue la siguente:
+---->Concepción (1 Semana-15/04/2024 al 18/04/2024): en la cual se generaron las  ideas y conceptos sobre el proyecto, la definición del género y plataforma a usar tambien la elaboración del documento de visión del juego.
+---->Diseño (2 semana-18/04/2024 al 22/04/2024):En esta parte lo que se realizo fue el desarrollo del documento de diseño de Juego,diseño de personajes y mecánicas de juego,storyboarding y diseño de niveles.
+---->Planificación (3 semana 22/04/2024 al 25/04/2024): en esta hicimos la asignación de tareas y recurso asi como el establecimiento de hitos y plazos y la preparación del entorno de desarrollo.
+---->Preproducción (4 semana-25/04/2024 al 29/04/2024):En ella se realizo el prototipado rápido y las pruebas de concepto , el diseño de arte conceptual y sonido incluso realizamos la primera demo jugable.
+---->Producción (5 semana- 29/04/2024 al 2/05/2024): El desarrollo de niveles y entornos,programación de mecánicas y sistemas,Integración de arte y sonido.
+y por ultimo-----> Producción (5 semana- 29/04/2024 al 2/05/2024): quo concistie en el Desarrollo de niveles y entornos tambien la programación de mecánicas y sistemas y por ultimos integrar el arte y sonido.
+
+
