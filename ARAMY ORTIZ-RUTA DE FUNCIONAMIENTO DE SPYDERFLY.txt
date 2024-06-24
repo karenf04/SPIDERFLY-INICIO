@@ -1,0 +1,40 @@
+Inicio :
++Pantalla de inicio;Se le agrago un formato a la que sera l pantalla de inicio
+
+Cuenta con cuatro botones principales;
+*AJUSTES O CONFIGURACION
+Contara con botones independietes dentro del mismo que mostrara las opciones de:
+°Volumen
+°Musica
+°Idioma
+-Los botones de volumen y musica, respondera al "comando" deteniendo ya sea la musica o el volumen(sonidos del juego) y ambos pueden presentar errores de distorcion
+-Boton de idioma: este respondera a su comando a travez de la traduccion del idioma que se seleccione y puede presentar errores en la traduccion
+-Controles percionalizados,que se infiuere podrian tener mas opciones de ajustes a parametros como la sencibilidad de los botones y entre otros
+*SpiderCoin 
+Nos guiara a otra pantalla que nos dara acceso a la tienda del juego y tenda dos botones idenpendientes del mismo
+-Compras de skin y accesorio, y potenciadoresn donde ambos nos podrian presentar errores de compra
+*Start 
+Nos guia al comienzo del juego;
+Nos puede presentar errores en el tiempo de carga o en la carga misma
+*Store, que nos guiara a su pantalla correspondiente
+-Compras de skins y accesorios
+-Cantidades de dinero del juego(spidercoins)
+
++Pantalla del juego; se le dio un formato que presenta los cntroles del juego y los villanos
+Los posibles errores que se le pueden adjudicar a esta parte es que la pantalla quede congelada o bugs en la misma
+-Controles:que responderan a las flechas de direccion y las letras (WASD):
+Los errores que se pueden presentar en esta parte es que presenten errores de codigo, que no respondan o tener los controles invertidos
+-Existiran dos marcadores(?) en esta parte que indicaran;
+°Spidercoins recolectadas y los posibles errores que se podrian presentar es que no se contabilizen
+°La distancia recorrida, sus posibles errores que se pueden presentar es que nos se contabilicen o presenten bugs
+-Villanos; que se presentaran a partir de cierta distancia recorrida
+solo se pudieron contabilizar dos errores que podrian ser que:
+°Los villanos no esten bien iluminados 
+°Salgan antes de tiempo en el juego
+
++Pantalla de finalizacion; se mostrara al perder en el juego; ya sea por chocar con algun edificio,contra los villanos o al caer
+Los errores que se puede presentar en esta parte son errores al volver a cargar la pantalla princial
+por si solo en la parte de finalizacion(al perder la partida) mostrara tres marcadores independientes
+-Distancia recorrida; que seran los puntos hechos en la partida
+-Boton de "intentar de nuevo" que enviara a la pantalla de juego para iniciar una partida nueva
+-Barra de Record y Score(la distancia recorrida en la partida)
