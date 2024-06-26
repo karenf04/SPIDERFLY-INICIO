@@ -1,0 +1,22 @@
+Spider fly 
+A primera vista lo que se busca es diversión ,entretenimiento,competitividad y qué tal vez sea parecido a otros juegos pero diferente en cuanto a estructura ,diseño,etc.
+
+Este juego podrá ser online para así mismo no solamente que haya competitividad en amigos si no a nivel mundial .
+1er pestaña 
+- [x] En la página inicial se puede apreciar que se le agregó un fondo de estrellas 
+- [x] Se le agregó un botón donde se le podrá dar inicio al juego 
+- [x] También se le agregó otro botón donde podremos observar premios obtenidos nosotros y los rangos de puntaje que probablemente llevemos como a nivel mundial como entre amigos 
+- [x] De fondo también estará el juego reproduciéndose 
+- [x] Se le agregó otro botón donde podremos observar skins del personaje o accesorios mismo donde podremos apreciar las monedas o coins obtenidas para saber qué más podríamos comprar entre otras 
+
+2da pestaña
+- [x] En la segunda se podrá observar como ya habíamos mencionado el fondo con estrellas que se agregará 
+- [x] En este caso las coins se agregarán pero no en forma de moneda si no en forma de telaraña 
+- [x] Se agregarán diferentes edificios en diferentes formas unos más cuadrados unos más picudos para hacer más complejo o más competitivo el juego y hacerlo más interesante 
+- [x] También se agregó un botón durante el juego que nos irá mostrando nuestro “score”que en pocas palabras será el puntaje que llevamos recorrido
+
+3er pestañas 
+- [x] En esta tercera pestaña como botón al perder se le agregará en grande el game over 
+- [x] También se agregó un botón donde aparecerá en grande el score recorrido durante la partida y el mejor puntaje que llevamos recorrido “récord”
+- [x] Se le agregó un botón como en la página principal donde podrás reintentar de nuevo juego y así seguir jugando 
+- [x] Y por último también se le agregó el botón de rangos para así poder apreciar logros obtenidos y puntaje con nuestros amigos y personas del mundo.
